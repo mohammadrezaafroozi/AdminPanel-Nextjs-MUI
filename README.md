@@ -1,4 +1,4 @@
-- Adminpanel with Nextjs and MUI,Storybook,TailwindCSS,Chartjs
+- Adminpanel with Nextjs and TypeScript,MUI,Storybook,TailwindCSS,Chartjs
   
 - [online demo](https://admin-panel-nextjs-mui-cvot.vercel.app/)
 
@@ -11,7 +11,7 @@
 
 - Developed by MohammadReza Afroozi
 - Created - 2025
-- 🤖 Technologies Used - [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss,mui,react,js)](https://skillicons.dev)
+- 🤖 Technologies Used - [![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,tailwindcss,mui,react,js)](https://skillicons.dev)
 
 - 🤖🤖♀️ Role - Frontend
 - Master : Parsa - Ghorbanian
