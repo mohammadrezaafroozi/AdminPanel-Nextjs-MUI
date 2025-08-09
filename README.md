@@ -1,6 +1,6 @@
 - Adminpanel with Nextjs and TypeScript,MUI,Storybook,TailwindCSS,Chartjs
   
-- [online demo](https://vercel.com/mohammadrezaafroozis-projects/adminpanel)
+- [online demo](https://adminpanel-six-coral.vercel.app/)
 
 <img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/07a45099-829a-4eaf-8d6b-3844d7d330ec" />
 <img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/4b8abf6b-d6b1-492a-b9dd-94be62586b0b" />
